@@ -5,7 +5,6 @@
 - 📫 How to contact me:
 Mail: SFS_stepan@mail.ru
 Telegram: @vs94esky
-- 😄 Pronouns: He
 - ⚡Interesting fact: I came from the village to Moscow.
 <!---
 StepanErshov/StepanErshov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
