@@ -4,8 +4,7 @@
 - 💞️I am looking for cooperation with IT companies that can offer internships and further employment opportunities.
 - 📫 How to contact me:
 Mail: SFS_stepan@mail.ru
-Telegram: @vs94esky
-- ⚡Interesting fact: I came from the village to Moscow.
+Telegram: @vs94eskiy
 <!---
 StepanErshov/StepanErshov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
