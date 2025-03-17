@@ -1,10 +1,24 @@
-- 👋Hi, I'm @StepanErshov
+### Hi there 👋 I'm Stepan Ershov,
 - 👀 I am interested in backend development in C/C++ and Python (I plan to start writing in Go). I want to become a data science specialist.
 - 🌱I am currently studying applied mathematics and computer science at RUDN University, specializing in mathematical methods of flight mechanics of launch vehicles and spacecraft. Along the way, I study at school 21 from Sberbank (nickname: squanclo)
 - 💞️I am looking for cooperation with IT companies that can offer internships and further employment opportunities.
 - 📫 How to contact me:
-  Mail: SFS_stepan@mail.ru
-  Telegram: @vs94eskiy
+- ✅ Mail: SFS_stepan@mail.ru
+- ✏ Telegram: @vs94eskiy
+
+### My skills include
+
+<p align="center">
+	<img title="Python" alt="Python" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/python.svg" width="40" height="40" style="vertical-align:down; margin:4px"/>
+	<img title="MySQL" alt="MySQL" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/mysql.svg" width="40" height="40" style="vertical-align:down; margin:4px"/>
+	<img title="Bitbucket" alt="Bitbucket" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/bitbucket.svg" height="40" style="vertical-align:down; margin:4px"/>
+	<img title="Git" alt="Git" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/git.svg" width="70" height="40" style="vertical-align:down; margin:4px"/>
+	<img title="jira" alt="linux" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/jira.svg" width="40" style="vertical-align:down; margin:4px"/>
+	<img title="Kafka" alt="Kafka" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/kafka.svg" width="105" height="40" />
+	<img title="linux" alt="linux" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/linux-tux.svg" width="40" style="vertical-align:down; margin:4px"/>
+  <img title="airflow" alt="airflow" src="https://github.com/Thomas-George-T/Thomas-George-T/blob/master/assets/airflow.svg" width="105" height="40" style="vertical-align:down; margin:4px"/>
+</p>
+
 <!---
 StepanErshov/StepanErshov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
