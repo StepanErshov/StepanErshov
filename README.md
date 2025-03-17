@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Stepan Ershov,
-- 👀 I am interested in backend development in C/C++ and Python (I plan to start writing in Go). I want to become a data science specialist.
+- 👀 I am interested in backend development in C/C++, Go and Python. I want to become a ML and Go-develop specialist.
 - 🌱I am currently studying applied mathematics and computer science at RUDN University, specializing in mathematical methods of flight mechanics of launch vehicles and spacecraft. Along the way, I study at school 21 from Sberbank (nickname: squanclo)
 - 💞️I am looking for cooperation with IT companies that can offer internships and further employment opportunities.
 - 📫 How to contact me:
