@@ -1,5 +1,6 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/stepanershov/)
-
+[![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/stepanershov)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/vs94eskiy)
 ### Hi there 👋 I'm Stepan Ershov,
 - 👀 I am interested in backend development in C/C++, Go and Python. I want to become a ML and Go-develop specialist.
 - 🌱I am currently studying applied mathematics and computer science at RUDN University, specializing in mathematical methods of flight mechanics of launch vehicles and spacecraft. Along the way, I study at school 21 from Sberbank (nickname: squanclo)
