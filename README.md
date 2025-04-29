@@ -25,12 +25,13 @@
 </p>
 
 ### Educational projects
-
+https://github.com/StepanErshov/StringPlus
 | Name | Description | Tools |
 | --- | --- | --- |
 | [LinuxMonitoring](https://github.com/StepanErshov/D01_Linux-1) | Мониторинг системы Linux | Linux, bash, awk |
 | [LinuxNetwork](https://github.com/StepanErshov/LinuxNetwork#) | Создание сети для 5 виртуальных машин | Linux, сети, nginx, VM |
 | [SimpleDocker](https://github.com/StepanErshov/SimpleDocker?tab=readme-ov-file) | Работа с Docker контейнерами | Docker, Docker Compose, nginx |
+| [StringPlus](https://github.com/StepanErshov/StringPlus) | Реализация своей библиотеки <string.h> | Makefile, gcov/lcov, valgrind |
 
 ### My Coding Stats
 
