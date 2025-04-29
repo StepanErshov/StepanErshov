@@ -25,6 +25,8 @@
 </p>
 
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StepanErshov&layout=compact&hide_border=true&hide=html,css,javascript&theme=radical)](https://github.com/StepanErshov)
 <!---
 StepanErshov/StepanErshov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
