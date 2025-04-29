@@ -24,7 +24,13 @@
     <img title="go" alt="go" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/go.svg" width="50" height="50" style="vertical-align:middle; margin:4px"/>
 </p>
 
+### 🎓 Educational projects
 
+| Name | Description | Tools |
+| --- | --- | --- |
+| [LinuxMonitoring](https://github.com/YaBear/LinuxMonitoringhttps://github.com/StepanErshov/D01_Linux-1/tree/main/src) | Мониторинг системы Linux | Linux, bash, awk |
+| [LinuxNetwork](https://github.com/StepanErshov/LinuxNetwork#) | Создание сети для 5 виртуальных машин | Linux, сети, nginx, VM |
+| [SimpleDocker](https://github.com/StepanErshov/SimpleDocker?tab=readme-ov-file) | Работа с Docker контейнерами | Docker, Docker Compose, nginx |
 
 ### My Coding Stats
 
