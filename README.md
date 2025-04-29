@@ -25,7 +25,7 @@
 </p>
 
 ### Educational projects
-
+https://github.com/StepanErshov/MyTrainingRepo
 | Name | Description | Tools |
 | --- | --- | --- |
 | [LinuxMonitoring](https://github.com/StepanErshov/D01_Linux-1) | Мониторинг системы Linux | Linux, bash, awk |
@@ -33,7 +33,7 @@
 | [SimpleDocker](https://github.com/StepanErshov/SimpleDocker?tab=readme-ov-file) | Работа с Docker контейнерами | Docker, Docker Compose, nginx |
 | [StringPlus](https://github.com/StepanErshov/StringPlus) | Реализация своей библиотеки <string.h> | Makefile, gcov/lcov, valgrind |
 | [Decimal](https://github.com/StepanErshov/Decimal) | Реализация своей библиотеки <decimal.h> | Makefile, gcov/lcov, clang-format |
-
+| [Training](https://github.com/StepanErshov/MyTrainingRepo) | Мои тренировачные проекты для развития | FastApi, Flask, pettingzoo, requests, streamlit |
 ### My Coding Stats
 
 <div align="center">
