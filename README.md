@@ -28,7 +28,7 @@
 
 | Name | Description | Tools |
 | --- | --- | --- |
-| [LinuxMonitoring](https://github.com/YaBear/LinuxMonitoringhttps://github.com/StepanErshov/D01_Linux-1/tree/main/src) | Мониторинг системы Linux | Linux, bash, awk |
+| [LinuxMonitoring](https://github.com/StepanErshov/D01_Linux-1) | Мониторинг системы Linux | Linux, bash, awk |
 | [LinuxNetwork](https://github.com/StepanErshov/LinuxNetwork#) | Создание сети для 5 виртуальных машин | Linux, сети, nginx, VM |
 | [SimpleDocker](https://github.com/StepanErshov/SimpleDocker?tab=readme-ov-file) | Работа с Docker контейнерами | Docker, Docker Compose, nginx |
 
