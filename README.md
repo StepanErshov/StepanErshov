@@ -24,7 +24,7 @@
     <img title="go" alt="go" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/go.svg" width="50" height="50" style="vertical-align:middle; margin:4px"/>
 </p>
 
-### 🎓 Educational projects
+### Educational projects
 
 | Name | Description | Tools |
 | --- | --- | --- |
