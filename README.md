@@ -32,6 +32,7 @@ https://github.com/StepanErshov/StringPlus
 | [LinuxNetwork](https://github.com/StepanErshov/LinuxNetwork#) | Создание сети для 5 виртуальных машин | Linux, сети, nginx, VM |
 | [SimpleDocker](https://github.com/StepanErshov/SimpleDocker?tab=readme-ov-file) | Работа с Docker контейнерами | Docker, Docker Compose, nginx |
 | [StringPlus](https://github.com/StepanErshov/StringPlus) | Реализация своей библиотеки <string.h> | Makefile, gcov/lcov, valgrind |
+| [Decimal](https://github.com/StepanErshov/Decimal) | Реализация своей библиотеки <decimal.h> | Makefile, gcov/lcov, clang-format |
 
 ### My Coding Stats
 
