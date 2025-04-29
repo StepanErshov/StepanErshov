@@ -25,15 +25,16 @@
 </p>
 
 ### Educational projects
-https://github.com/StepanErshov/MyTrainingRepo
+
 | Name | Description | Tools |
 | --- | --- | --- |
-| [LinuxMonitoring](https://github.com/StepanErshov/D01_Linux-1) | Мониторинг системы Linux | Linux, bash, awk |
-| [LinuxNetwork](https://github.com/StepanErshov/LinuxNetwork#) | Создание сети для 5 виртуальных машин | Linux, сети, nginx, VM |
-| [SimpleDocker](https://github.com/StepanErshov/SimpleDocker?tab=readme-ov-file) | Работа с Docker контейнерами | Docker, Docker Compose, nginx |
-| [StringPlus](https://github.com/StepanErshov/StringPlus) | Реализация своей библиотеки <string.h> | Makefile, gcov/lcov, valgrind |
-| [Decimal](https://github.com/StepanErshov/Decimal) | Реализация своей библиотеки <decimal.h> | Makefile, gcov/lcov, clang-format |
-| [Training](https://github.com/StepanErshov/MyTrainingRepo) | Мои тренировачные проекты для развития | FastApi, Flask, pettingzoo, requests, streamlit |
+| [LinuxMonitoring](https://github.com/StepanErshov/D01_Linux-1) | Linux System Monitoring | Linux, bash, awk |
+| [LinuxNetwork](https://github.com/StepanErshov/LinuxNetwork#) | Creating a network for 5 virtual machines | Linux, сети, nginx, VM |
+| [SimpleDocker](https://github.com/StepanErshov/SimpleDocker?tab=readme-ov-file) | Working with Docker containers | Docker, Docker Compose, nginx |
+| [StringPlus](https://github.com/StepanErshov/StringPlus) | Implementing your own library <string.h> in C | Makefile, gcov/lcov, valgrind |
+| [Decimal](https://github.com/StepanErshov/Decimal) | Implementing your own library <decimal.h> in C | Makefile, gcov/lcov, clang-format |
+| [Training](https://github.com/StepanErshov/MyTrainingRepo) | My training projects for development | FastApi, Flask, pettingzoo, requests, streamlit, pandas |
+
 ### My Coding Stats
 
 <div align="center">
