@@ -25,7 +25,7 @@
 </p>
 
 ### Educational projects
-https://github.com/StepanErshov/StringPlus
+
 | Name | Description | Tools |
 | --- | --- | --- |
 | [LinuxMonitoring](https://github.com/StepanErshov/D01_Linux-1) | Мониторинг системы Linux | Linux, bash, awk |
