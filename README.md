@@ -63,10 +63,19 @@
 ![footer](https://github.com/StepanErshov/LinuxNetwork/blob/main/src/D02_photo/footer.webp)
 
 <!---
+Followers and Wievers
+<p align='center'>
+<img src="https://komarev.com/ghpvc/?username=StepanErshov">&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/github/followers/StepanErshov?style=social">&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+
+
 StepanErshov/StepanErshov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+GIF 1
   <img src="https://media4.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif?cid=6c09b952kho0f5bkmh0nq9x6fyeaam2u2kn7jr2yrpkq7y7y&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" width="300>
 You can click the Preview link to take a look at your changes.
-
+GIF 2
 <div align="center">
   <img src="https://img1.picmix.com/output/stamp/normal/6/5/5/1/2621556_3a7b1.gif" width="300">
 </div>
