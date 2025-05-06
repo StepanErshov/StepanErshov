@@ -46,7 +46,7 @@
 
 <div style="width: 100%; max-width: 1500px;">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StepanErshov&layout=compact&hide_border=true&hide=html,css,javascript&theme=radical&card_width=500)](https://github.com/StepanErshov)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StepanErshov&layout=compact&hide_border=true&hide=html,css,javascript,swig,powershell&theme=radical&card_width=500)](https://github.com/StepanErshov)
 
 </div>
 
