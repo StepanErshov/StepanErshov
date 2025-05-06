@@ -59,6 +59,7 @@
 </div>
 
 
+
 ---
 
 ![footer](https://github.com/StepanErshov/LinuxNetwork/blob/main/src/D02_photo/footer.webp)
