@@ -16,14 +16,14 @@
 ### My skills include
 
 <p align="center">
-    <img title="Python" alt="Python" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/python.svg" width="40" height="40" style="vertical-align:middle; margin:4px"/>
-    <img title="MySQL" alt="MySQL" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/mysql.svg" width="40" height="40" style="vertical-align:middle; margin:4px"/>
-    <img title="Bitbucket" alt="Bitbucket" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/bitbucket.svg" height="40" style="vertical-align:middle; margin:4px"/>
-    <img title="Git" alt="Git" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/git.svg" width="70" height="40" style="vertical-align:middle; margin:4px"/>
-    <img title="jira" alt="linux" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/jira.svg" width="40" style="vertical-align:middle; margin:4px"/>
-    <img title="Kafka" alt="Kafka" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/kafka.svg" width="105" height="40" style="vertical-align:middle; margin:4px"/>
-    <img title="linux" alt="linux" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/linux-tux.svg" width="40" style="vertical-align:middle; margin:4px"/>
-    <img title="airflow" alt="airflow" src="https://github.com/Thomas-George-T/Thomas-George-T/blob/master/assets/airflow.svg" width="105" height="40" style="vertical-align:middle; margin:4px"/>
+     <img title="Python" alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" style="vertical-align:middle; margin:4px"/>
+     <img title="MySQL" alt="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" style="vertical-align:middle; margin:4px"/>
+     <img title="Bitbucket" alt="Bitbucket" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" width="40" height="40" style="vertical-align:middle; margin:4px"/>
+     <img title="Git" alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" style="vertical-align:middle; margin:4px"/>
+     <img title="Jira" alt="Jira" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="40" height="40" style="vertical-align:middle; margin:4px"/>
+     <img title="Kafka" alt="Kafka" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="40" height="40" style="vertical-align:middle; margin:4px"/>
+     <img title="Linux" alt="Linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" style="vertical-align:middle; margin:4px"/>
+     <img title="Airflow" alt="Airflow" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="40" height="40" style="vertical-align:middle; margin:4px"/>
     <img title="redis" alt="redis" src="https://img.shields.io/badge/redis-%23DD0031.svg" width="105" height="40" style="vertical-align:middle; margin:4px"/>
     <img title="go" alt="go" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/go.svg" width="50" height="50" style="vertical-align:middle; margin:4px"/>
 </p>
