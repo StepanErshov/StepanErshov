@@ -40,23 +40,23 @@
 | [Training](https://github.com/StepanErshov/MyTrainingRepo) | My training projects for development | FastApi, Flask, pettingzoo, requests, streamlit, pandas, sqlite3 |
 | [PubSub](https://github.com/StepanErshov/pubsub) | Implementation of a gRPC-based event subscription and publishing service with an internal event bus | gRPC, zerolog, protobuf |
 
-### My Coding Stats
+<!-- ### My Coding Stats -->
 
 <div align="center" style="display: flex; flex-direction: column; align-items: center; gap: 10px; width: 100%;">
 
-<div style="width: 100%; max-width: 1500px;">
+<!-- <div style="width: 100%; max-width: 1500px;">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StepanErshov&layout=compact&hide_border=true&hide=html,css,javascript,swig,powershell&theme=radical&card_width=500)](https://github.com/StepanErshov)
 
-</div>
+</div> -->
 
-<div style="width: 100%; max-width: 1500px;">
+<!-- <div style="width: 100%; max-width: 1500px;">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=StepanErshov&theme=dark&hide_border=true&card_width=500)](https://git.io/streak-stats)
-
-</div>
+[![GitHub Streak](https://streak-stats.demolab.com?user=StepanErshov&theme=dark&hide_border=true&card_width=500)](https://git.io/streak-stats) -->
 
 </div>
+
+<!-- </div> -->
 
 ---
 
