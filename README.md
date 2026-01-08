@@ -26,6 +26,7 @@
      <img title="Airflow" alt="Airflow" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="40" height="40" style="vertical-align:middle; margin:4px"/>
     <img title="redis" alt="redis" src="https://img.shields.io/badge/redis-%23DD0031.svg" width="105" height="40" style="vertical-align:middle; margin:4px"/>
     <img title="go" alt="go" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/go.svg" width="50" height="50" style="vertical-align:middle; margin:4px"/>
+     <img title="rust" alt="rust" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg", width="50" height="50" style="vertical-align:middle; margin:4px">
 </p>
 
 ### Educational projects
