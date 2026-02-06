@@ -6,9 +6,9 @@
 ### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&width=435&lines=Hi+there+%F0%9F%91%8B+I'm+Stepan+Ershov%2C)](https://git.io/typing-svg)
 
 
-- 👀 I am interested in backend development in C/C++, Go and Python. I want to become a ML and Go-develop specialist
-- 🌱I am currently studying applied mathematics and computer science at RUDN University, specializing in mathematical methods of flight mechanics of launch vehicles and spacecraft. Along the way, I study at [21 School](https://21-school.ru) from Sberbank (nickname: squanclo). Now I also work at the company "ATOM", system architecture developer, electrical and electronics architect
-- 💻I am looking for cooperation with IT companies that can offer internships and further employment opportunities
+- 👀 I'm interested in backend development in C/C++, Go, Rust, and Python. I want to become a machine learning and high-load systems development specialist.
+- 🌱 I'm currently studying applied mathematics and computer science at RUDN University, specializing in mathematical methods for the flight mechanics of launch vehicles and spacecraft. I'm also studying at Sberbank's [21 School](https://21-school.ru) (nickname: squanclo). I also currently work at ATOM, developing system architecture and designing electronics and electrical engineering, and I'm also working at a promising startup developing a corporate climate control system.
+- 💻I'm looking to collaborate with IT companies that can offer opportunities for future employment and career advancement.
 - 📫 How to contact me:
      - ✅ Mail: SFS_stepan@mail.ru
      - ✏ Telegram: @vs94eskiy
