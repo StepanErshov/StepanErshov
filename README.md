@@ -1,7 +1,7 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/stepanershov/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/stepanershov)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/vs94eskiy)
-
+[![Smileladder](https://img.shields.io/badge/smileladder-grey?style=for-the-badge&link=https%3A%2F%2Fsmileladder.ru%2F)](https://smileladder.ru/)
 
 ### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&width=435&lines=Hi+there+%F0%9F%91%8B+I'm+Stepan+Ershov%2C)](https://git.io/typing-svg)
 
