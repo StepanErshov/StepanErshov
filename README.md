@@ -40,6 +40,7 @@
 | [Decimal](https://github.com/StepanErshov/Decimal) | Implementing your own library <decimal.h> in C | Makefile, gcov/lcov, clang-format |
 | [Training](https://github.com/StepanErshov/MyTrainingRepo) | My training projects for development | FastApi, Flask, pettingzoo, requests, streamlit, pandas, sqlite3 |
 | [PubSub](https://github.com/StepanErshov/pubsub) | Implementation of a gRPC-based event subscription and publishing service with an internal event bus | gRPC, zerolog, protobuf |
+| [ProtocolConverter](https://github.com/StepanErshov/Convert2DBC)| Implementation of .dbc and .ldf converters from xlsx and back | cantools, ldfparser(own lib prototype), pandas |
 
 <!-- ### My Coding Stats -->
 
