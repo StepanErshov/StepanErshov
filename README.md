@@ -82,5 +82,4 @@ GIF 2
   <img src="https://img1.picmix.com/output/stamp/normal/6/5/5/1/2621556_3a7b1.gif" width="300">
 </div>
 
-
 --->
