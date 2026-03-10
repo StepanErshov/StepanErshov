@@ -65,6 +65,12 @@
 
 ![footer](https://github.com/StepanErshov/LinuxNetwork/blob/main/src/D02_photo/footer.webp)
 
+<p align='center'>
+<img src="https://komarev.com/ghpvc/?username=StepanErshov">&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/github/followers/StepanErshov?style=social">&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+
+
 <!---
 Followers and Wievers
 <p align='center'>
