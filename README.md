@@ -53,13 +53,12 @@
 
 </div> -->
 
-<!-- <div style="width: 100%; max-width: 1500px;">
+<div style="width: 100%; max-width: 1500px;">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=StepanErshov&theme=dark&hide_border=true&card_width=500)](https://git.io/streak-stats) -->
+[![GitHub Streak](https://streak-stats.demolab.com?user=StepanErshov&theme=dark&hide_border=true&card_width=500)](https://git.io/streak-stats)
 
 </div>
 
-<!-- </div> -->
 
 ---
 
@@ -70,13 +69,7 @@
 <img src="https://img.shields.io/github/followers/StepanErshov?style=social">&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-<!---
-Followers and Wievers
-<p align='center'>
-<img src="https://komarev.com/ghpvc/?username=StepanErshov">&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/github/followers/StepanErshov?style=social">&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
- 
+<!--- 
 
 StepanErshov/StepanErshov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
