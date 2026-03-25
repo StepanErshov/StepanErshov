@@ -69,7 +69,6 @@
 <img src="https://img.shields.io/github/followers/StepanErshov?style=social">&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-
 <!--- 
 
 StepanErshov/StepanErshov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
