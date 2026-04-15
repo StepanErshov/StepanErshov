@@ -17,17 +17,21 @@
 ### My skills include
 
 <p align="center">
-     <img title="Python" alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" style="vertical-align:middle; margin:4px"/>
-     <img title="MySQL" alt="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" style="vertical-align:middle; margin:4px"/>
-     <img title="Bitbucket" alt="Bitbucket" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" width="40" height="40" style="vertical-align:middle; margin:4px"/>
-     <img title="Git" alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" style="vertical-align:middle; margin:4px"/>
-     <img title="Jira" alt="Jira" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="40" height="40" style="vertical-align:middle; margin:4px"/>
-     <img title="Kafka" alt="Kafka" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="40" height="40" style="vertical-align:middle; margin:4px"/>
-     <img title="Linux" alt="Linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" style="vertical-align:middle; margin:4px"/>
-     <img title="Airflow" alt="Airflow" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="40" height="40" style="vertical-align:middle; margin:4px"/>
-    <img title="redis" alt="redis" src="https://img.shields.io/badge/redis-%23DD0031.svg" width="105" height="40" style="vertical-align:middle; margin:4px"/>
-    <img title="go" alt="go" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/go.svg" width="50" height="50" style="vertical-align:middle; margin:4px"/>
-     <img title="rust" alt="rust" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg", width="50" height="50" style="vertical-align:middle; margin:4px">
+  <table>
+    <tr>
+      <td><img title="Python" alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/></td>
+      <td><img title="MySQL" alt="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/></td>
+      <td><img title="Bitbucket" alt="Bitbucket" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" width="40" height="40"/></td>
+      <td><img title="Git" alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/></td>
+      <td><img title="Jira" alt="Jira" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="40" height="40"/></td>
+      <td><img title="Kafka" alt="Kafka" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="40" height="40"/></td>
+      <td><img title="Linux" alt="Linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/></td>
+      <td><img title="Airflow" alt="Airflow" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="40" height="40"/></td>
+      <td><img title="Redis" alt="Redis" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40" height="40"/></td>
+      <td><img title="Go" alt="Go" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40" height="40"/></td>
+      <td><img title="Rust" alt="Rust" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" width="40" height="40"/></td>
+    </tr>
+  </table>
 </p>
 
 ### Educational projects
