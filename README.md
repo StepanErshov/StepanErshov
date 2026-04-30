@@ -9,7 +9,7 @@
 
 - 👀 I'm interested in backend development in C/C++, Go, Rust, and Python. I want to become a machine learning and high-load systems development specialist.
 - 🌱 I'm currently studying applied mathematics and computer science at RUDN University, specializing in mathematical methods for the flight mechanics of launch vehicles and spacecraft. I'm also studying at Sberbank's [21 School](https://21-school.ru) (nickname: squanclo). I also currently work at ATOM, developing system architecture and designing electronics and electrical engineering, and I'm also working at a promising startup developing a corporate climate control system.
-- 💻I'm looking to collaborate with IT companies that can offer opportunities for future employment and career advancement.
+- 💻 I'm looking to collaborate with IT companies that can offer opportunities for future employment and career advancement.
 - 📫 How to contact me:
      - ✅ Mail: SFS_stepan@mail.ru
      - ✏ Telegram: @vs94eskiy
