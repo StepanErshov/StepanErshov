@@ -5,8 +5,7 @@
 [![YagaVPN](https://img.shields.io/badge/VPN-darkblue?style=for-the-badge&logoColor=grey&label=Yaga&labelColor=black&link=https%3A%2F%2Fyagavpn.com%3A8443%2F)](https://yagavpn.com/)
 
 ### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&width=435&lines=Hi+there+%F0%9F%91%8B+I'm+Stepan+Ershov%2C)](https://git.io/typing-svg)
-
-
+### About Me
 - 👀 I'm interested in backend development in C/C++, Go, Rust, and Python. I want to become a machine learning and high-load systems development specialist.
 - 🌱 I'm currently studying applied mathematics and computer science at RUDN University, specializing in mathematical methods for the flight mechanics of launch vehicles and spacecraft. I'm also studying at Sberbank's [21 School](https://21-school.ru) (nickname: squanclo). I also currently work at ATOM, developing system architecture and designing electronics and electrical engineering, and I'm also working at a promising startup developing a corporate climate control system with AI ([Smileladder](https://smileladder.ru/)).
 - 💻 I'm looking to collaborate with IT companies that can offer opportunities for future employment and career advancement.
