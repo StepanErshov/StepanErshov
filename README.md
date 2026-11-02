@@ -18,7 +18,7 @@
 |---|---|
 | 🎓 | **RUDN University** — Master's in Applied Mathematics and Computer Science<br/>*Profile: Data Science and Digital Transformation* |
 | 🎓 | **RUDN University** — Bachelor's in Applied Mathematics and Computer Science<br/>*Profile: Mathematical methods for flight mechanics of launch vehicles and spacecraft* |
-| 🏫 | **Sberbank 21 School** — nickname: `squanclo` |
+| 🏫 | **Sberbank 21 School** — nickname: `squanclo` [completed studies] |
 | 💼 | **ATOM** — system architecture, electronics and electrical engineering design |
 | 🚀 | **Smileladder** — corporate climate control system with AI, Fullstack Developer |
 
